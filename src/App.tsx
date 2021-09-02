@@ -5,7 +5,7 @@ import "./index.scss";
 import { Button } from "./components/View3d/index";
 
 function App() {
-  // console.log(123455);
+  console.log(123455);
   return (
     <div className="App">
       <Button></Button>
