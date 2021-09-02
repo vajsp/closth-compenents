@@ -4,7 +4,7 @@ import "./App.css";
 import "./index.scss";
 
 function App() {
-  console.log(12345);
+  console.log(123455);
   return (
     <div className="App">
       <header className="App-header">
